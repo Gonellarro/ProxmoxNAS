@@ -27,6 +27,7 @@ La resta per defecte.
 ![disc6](resources/omv10.jpg)
 5. Crear carpetes compartides 
 ![disc7](resources/omv11.jpg)
+
 <b>Important!</b> Aquí hem de sel·leccionar que tots els usuaris puguin llegir i escriure
 ![disc8](resources/omv12.jpg)
 
